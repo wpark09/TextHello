@@ -10,6 +10,17 @@ namespace TestHello
     {
         static void Main(string[] args)
         {
+            //System.Console.WriteLine("Hello World!"); // No more hello world exercise, please...
+            Console.WriteLine();
+            Console.WriteLine("       /|\\");
+            Console.WriteLine("      / | \\");
+            Console.WriteLine("     /  |  \\");
+            Console.WriteLine("    /   |   \\");
+            Console.WriteLine("   /____|____\\");
+            Console.WriteLine("   _____|_________");
+            Console.WriteLine("~ ~\\Hello World!/~ ~");
+            Console.WriteLine(" ~ ~\\__________/~ ~");
+            Console.WriteLine("~ ~ ~ ~ ~ ~ ~ ~ ~ ~");
         }
     }
 }
